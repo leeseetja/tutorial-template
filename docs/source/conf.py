@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'South African Weather Service Conformal Cubic Atmospheric Model'
+copyright = '2022, South African Weather Service'
+author = 'MM Bopape, TR Maisha, PT Mulovhedzi, GT Rambuwani, LE Lekoloane, FA Engelbrecht & T Ndarana'
 
 release = '0.1'
 version = '0.1.0'

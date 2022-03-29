@@ -1,4 +1,4 @@
-Getting started with the CCAM
+Software and model configuration
 =====
 
 .. _installation:

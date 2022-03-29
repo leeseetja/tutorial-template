@@ -1,4 +1,4 @@
-Getting started with the CCAM
+Development partners
 =====
 
 .. _installation:

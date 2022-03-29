@@ -1,4 +1,4 @@
-Getting started with the CCAM
+Scientific description
 =====
 
 .. _installation:

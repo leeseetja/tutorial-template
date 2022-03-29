@@ -12,8 +12,9 @@ Contents
 
 .. toctree::
 
-   Getting started
-   Scientific description
-   Software and model configuration
-   Development partners
-   Change log 
+   starting
+   science
+   configuration
+   partners
+   usage
+   api
